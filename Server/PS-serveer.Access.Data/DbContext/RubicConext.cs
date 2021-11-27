@@ -15,7 +15,6 @@ namespace PS_serveer.Access.Data.DbContext
         public RubicConext(DbContextOptions<RubicConext> options)
             :base(options)
         {
-
         }
 
         public DbSet<UserRto> Users { get ; set; }

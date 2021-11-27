@@ -35,5 +35,14 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Serices\UserService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PS-server.BusinesLogic.Core\PS-server.BusinesLogic.Core.csproj">
+      <Project>{965E6779-1AE8-4353-86CB-9FE78B0A1F01}</Project>
+      <Name>PS-server.BusinesLogic.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS-server", "WebApplication1\PS-server.csproj", "{FC468354-B179-4C2E-BB14-716BB4F4A2A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PS-server", "WebApplication1\PS-server.csproj", "{FC468354-B179-4C2E-BB14-716BB4F4A2A2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{85B7DCB2-3D3A-4D66-990D-DD0AFD4A1718}"
 EndProject

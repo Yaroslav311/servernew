@@ -11,6 +11,9 @@ namespace PS_server.Access.Data.Core.Models
     public class UserRto
     {
         [Key] public int Id { get; set; }
+        public int PhoneNumberPrefix { get; set; }
+        public int PhoneNumber { get; set; }
+        public int Password { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Patronymic { get; set; }
@@ -23,4 +26,5 @@ namespace PS_server.Access.Data.Core.Models
         {
             get => LastName + " " + FirstName + " " + Patronymic;
         }
+    }
 }

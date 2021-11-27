@@ -1,0 +1,2 @@
+C:\Users\StudentDev\Documents\GitHub\servernew\Server\PS-server.BusinesLogic\obj\Debug\PS-server.BusinesLogic.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\servernew\Server\PS-server.BusinesLogic\obj\Debug\PS-server.BusinesLogic.csproj.CoreCompileInputs.cache
